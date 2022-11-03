@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wevinkang
 - 👀 I’m interested in cybersecurity!
-- 🌱 I’m currently learning networking fundamentals.
+- 🌱 I’m currently learning digital forensics.
 - 💞️ I’m looking to collaborate on anything entry level.
 - 📫 How to reach me
 
