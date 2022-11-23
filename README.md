@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wevinkang
 - 👀 I’m interested in cybersecurity!
-- 🌱 I’m currently learning digital forensics.
+- 🌱 I’m currently pursuing a certificate with CompTIA Security+
 - 💞️ I’m looking to collaborate on anything entry level.
-- 📫 How to reach me
+- 📫 How to reach me: kevwang55@gmail.com
 
 <!---
 wevinkang/wevinkang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
