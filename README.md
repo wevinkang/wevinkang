@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wevinkang
-- 👀 I’m interested in cybersecurity!
-- 🌱 I’m currently pursuing a certificate with CompTIA Security+
-- 💞️ I’m looking to collaborate on anything entry level.
+- 👀 I have a passion for cybersecurity!
+- 🌱 I just achieved my CompTIA Security+ and am looking to pursue my next project/certificate!
+- 💞️ I’m looking to collaborate on anything in the realm of cybersecurity.
 - 📫 How to reach me: kevwang55@gmail.com
 
 <!---
