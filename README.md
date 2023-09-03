@@ -17,6 +17,7 @@ I'm passionate about cybersecurity with a year of experience in defending digita
 I'm always open to networking, knowledge sharing, and collaboration in the cybersecurity community. Feel free to connect with me on LinkedIn or reach out via email: kevwang55@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/kevinwang55)
+
 [Email](mailto:kevwang55@gmail.com)
 
 ---
