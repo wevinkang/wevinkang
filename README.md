@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @wevinkang
-- 👀 I have a passion for cybersecurity!
-- 🌱 I just achieved my CompTIA Security+ and am looking to pursue my next project/certificate!
-- 💞️ I’m looking to collaborate on anything in the realm of cybersecurity.
-- 📫 How to reach me: kevwang55@gmail.com
+# 👋 Hello, I'm Kevin Wang - SOC Operator
+
+I'm a passionate about cybersecurity with almost 1 year of professional experience in defending digital infrastructures from cyber threats. I'm committed to safeguarding organizations and contributing to a more secure digital world.
+
+## 🔥 My Expertise
+
+- Incident Detection & Response
+- Security Event Monitoring
+- Threat Analysis & Mitigation
+- Security Information & Event Management (SIEM)
+- Log Analysis & Correlation
+- Vulnerability Assessment
+- Team Collaboration & Communication
+
+## 📫 Let's Connect
+
+I'm always open to networking, knowledge sharing, and collaboration in the cybersecurity community. Feel free to connect with me on LinkedIn or reach out via email: kevwang55@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/kevinwang55)
+[Email](mailto:kevwang55@gmail.com)
+
+---
+
+Thanks for stopping by! Let's work together to make the digital world a safer place. 👾
 
 <!---
 wevinkang/wevinkang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
