@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kevin Wang - SOC Operator
 
-I'm a passionate about cybersecurity with almost 1 year of professional experience in defending digital infrastructures from cyber threats. I'm committed to safeguarding organizations and contributing to a more secure digital world.
+I'm passionate about cybersecurity with a year of experience in defending digital infrastructures from cyber threats. I'm committed to safeguarding organizations and contributing to a more secure digital world.
 
 ## 🔥 My Expertise
 
