@@ -6,10 +6,8 @@ I'm passionate about cybersecurity with a year of experience in defending digita
 
 - Incident Detection & Response
 - Security Event Monitoring
-- Threat Analysis & Mitigation
 - Security Information & Event Management (SIEM)
 - Log Analysis & Correlation
-- Vulnerability Assessment
 - Team Collaboration & Communication
 
 ## 📫 Let's Connect
