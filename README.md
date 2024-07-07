@@ -1,6 +1,7 @@
 # 👋 Hi, welcome to my profile
 
-I enjoy tinkering with technology, tools, 
+I enjoy tinkering with different technologies, tools, and practices in the realm of information security. 
+Hopefully this will be a nice journal of documentation, learning, and improvement.
 
 ## 🔥 My experience
 
